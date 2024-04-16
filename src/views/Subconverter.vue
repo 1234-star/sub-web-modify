@@ -467,10 +467,9 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "urlsllc.top": "https://urlsllc.top/short"
         },
         customBackend: {
-          "增强型后端【vless reality+hy1+hy2】": "https://api.urlsllc.top"
+          "下山云后端": "https://api.urlsllc.top"
         },
         backendOptions: [
           {value: "https://api.urlsllc.top"}
