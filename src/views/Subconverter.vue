@@ -477,7 +477,7 @@ export default {
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://sub.wfy.one"
         },
         backendOptions: [
-          {value: "https://sc.wfy.one"}
+          {value: "https://sub.wfy.one"}
         ],
         remoteConfig: [
           {
