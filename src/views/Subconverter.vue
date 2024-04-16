@@ -474,7 +474,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "肥羊增强型后端【vless reality+hy1+hy2】": "https://sc.wfy.one"
+          "肥羊增强型后端【vless reality+hy1+hy2】": "https://sub.wfy.one"
         },
         backendOptions: [
           {value: "https://sc.wfy.one"}
