@@ -468,16 +468,13 @@ export default {
         },
         shortTypes: {
           "urls.wfy": "https://urls.wfy.one/short",
-          "d1.mk": "https://d1.mk/short",
-          "dlj.tf": "https://dlj.tf/short",
-          "suo.yt": "https://suo.yt/short",
-          "sub.cm": "https://sub.cm/short",
+
         },
         customBackend: {
-          "自建增强型后端【vless reality+hy1+hy2】": "https://sub.wfy.one"
+          "自建增强型后端【vless reality+hy1+hy2】": "https://sur.wfy.one"
         },
         backendOptions: [
-          {value: "https://sub.wfy.one"}
+          {value: "https://sur.wfy.one"}
         ],
         remoteConfig: [
           {
@@ -877,7 +874,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: this.getUrlParam() == "" ? "https://sub.wfy.one" : this.getUrlParam(),
+        customBackend: this.getUrlParam() == "" ? "https://sur.wfy.one" : this.getUrlParam(),
         shortType: "https://urls.wfy.one/short",
         remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini",
         excludeRemarks: "",
