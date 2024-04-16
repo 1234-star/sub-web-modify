@@ -873,7 +873,7 @@ export default {
         sourceSubUrl: "",
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://api.urlsllc.top" : this.getUrlParam(),
-        shortType: "https://urlsllc.top/short",
+        shortType: "https://urlsllc.top",
         remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini",
         excludeRemarks: "",
         includeRemarks: "",
